@@ -2,7 +2,7 @@ name: Daily MAUI Job Hunter
 
 on:
   schedule:
-    - cron: "0 12 * 3 *"  # 8 AM Nigeria time
+    - cron: "0 13 * 3 *"  # 8 AM Nigeria time
   workflow_dispatch:
 
 jobs:
